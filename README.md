@@ -1,7 +1,5 @@
-#Submission By:
+Submitted By:
 Arav Mendiratta(SRM Institute of Science and Technology)
-
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App]
 
